@@ -1,2 +1,2 @@
 # solbinary-web-frontend
-Based on Salana, Vue, and Fleek.
+Based on Solana, Vue, and Fleek.
